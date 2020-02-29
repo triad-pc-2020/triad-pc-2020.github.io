@@ -16,17 +16,17 @@ For scoring, we will use the ACM style leaderboard. What does that mean for you?
 
 ### Example 
 
-**Team 1 solves three problems at:**
+Team 1 solves three problems at:
 * 15 minutes
 * 45 minutes after two incorrect runs (40 penalty)
 * 150 minutes 
-* **total time:* 250
+* **Total time:** 250
 
-**Team 2 solves three problems at**
+Team 2 solves three problems at:
 * 10 minutes
 * 40 minutes
 * 175 minutes
-**total time:** 225
+* **Total time:** 225
 
 **Conclusion:** Team 2 wins.
 
